@@ -1,0 +1,329 @@
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Prism.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Prism.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Prism.Wpf.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Prism.Wpf.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\ReactiveProperty.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\ReactiveProperty.Core.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\System.Reactive.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Unity.Abstractions.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Unity.Abstractions.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Unity.Container.dll
+C:\Users\yasunari.tsukuda\source\repos\Calculator\bin\Debug\Unity.Container.pdb
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.exe.config
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Views\MainWindow.baml
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\App.g.cs
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\yasunari.tsukuda\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Prism.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Prism.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Prism.Wpf.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Prism.Wpf.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\ReactiveProperty.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\ReactiveProperty.Core.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\System.Reactive.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\System.ValueTuple.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Unity.Abstractions.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Unity.Abstractions.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Unity.Container.dll
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\bin\Debug\Unity.Container.pdb
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.exe.config
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Views\MainWindow.baml
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\App.g.cs
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\yasunari.tsukuda\Desktop\C#　学習材料\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Prism.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Prism.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Prism.Wpf.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Prism.Wpf.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\ReactiveProperty.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\ReactiveProperty.Core.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Reactive.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ValueTuple.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Unity.Abstractions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Unity.Abstractions.pdb
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Unity.Container.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Unity.Container.pdb
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.exe.config
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Views\MainWindow.baml
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\App.g.cs
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\netstandard.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.AppContext.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Collections.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Collections.Specialized.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ComponentModel.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Console.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Data.Common.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Globalization.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.Compression.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.FileSystem.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.Pipes.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Linq.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Linq.Expressions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Linq.Parallel.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Linq.Queryable.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.Http.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.NameResolution.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.Ping.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.Requests.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.Security.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.Sockets.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Net.WebSockets.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.ObjectModel.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Reflection.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Resources.Reader.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Resources.Writer.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Handles.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Claims.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.Principal.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Security.SecureString.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Text.Encoding.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.Tasks.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.Thread.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Threading.Timer.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Xml.XDocument.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Xml.XPath.dll
+C:\Users\juke1\Desktop\C#\Calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\juke1\Desktop\C#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Prism.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Prism.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Prism.Wpf.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Prism.Wpf.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\ReactiveProperty.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\ReactiveProperty.Core.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Reactive.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ValueTuple.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Unity.Abstractions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Unity.Abstractions.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Unity.Container.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Unity.Container.pdb
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\netstandard.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.AppContext.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Collections.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Collections.Specialized.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ComponentModel.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Console.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Data.Common.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Globalization.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.Compression.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.FileSystem.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.Pipes.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Linq.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Linq.Expressions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Linq.Parallel.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Linq.Queryable.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.Http.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.NameResolution.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.Ping.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.Requests.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.Security.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.Sockets.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Net.WebSockets.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.ObjectModel.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Reflection.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Resources.Reader.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Resources.Writer.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Handles.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Claims.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.Principal.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Security.SecureString.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Text.Encoding.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.Tasks.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.Thread.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Threading.Timer.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Xml.XDocument.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Xml.XPath.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.exe.config
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Views\MainWindow.baml
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\App.g.cs
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\juke1\Desktop\Knowledge\C#\Calculator\obj\Debug\Calculator.pdb
